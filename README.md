@@ -2,7 +2,7 @@
 
 Portfolio personal, construido con **React + Vite**. Muestra mis proyectos, stack y forma de contacto.
 
-🔗 Sitio en vivo: https://cristalba22.github.io/portfolio/
+🔗 Sitio en vivo: https://cristalba22.github.io/portfolio/ (también en https://portfolio-4eu.pages.dev, deploy automático vía Cloudflare Pages)
 
 ## Stack
 
