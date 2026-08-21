@@ -4,8 +4,8 @@ export default function Contact() {
       <div className="container">
         <h2 className="section-title">Contacto</h2>
         <p className="contact-text">
-          Estoy buscando mi primera oportunidad formal como Desarrollador Web Jr, Backend Jr, Full
-          Stack Jr o DBA Jr. Si tenés una propuesta o simplemente querés charlar, escribime.
+          Estoy buscando mi primera oportunidad formal como Desarrollador Web , Backend , Full
+          Stack  o DBA . Si tenés una propuesta o simplemente querés charlar, escribime.
         </p>
         <a href="mailto:crisalbavideografo@gmail.com" className="btn btn-primary btn-large">
           crisalbavideografo@gmail.com
