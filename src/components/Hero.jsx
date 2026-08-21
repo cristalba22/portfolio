@@ -9,8 +9,7 @@ export default function Hero() {
         <p className="eyebrow">Hola, soy</p>
         <h1 className="gradient-text">Cristian Eduardo Alba</h1>
         <p className="hero-role">
-          Desarrollador Full Stack Jr <span className="dot">·</span> React &amp; Node.js{' '}
-          <span className="dot">·</span> Bases de datos
+          Desarrollador Full Stack Jr <span className="dot">|</span> React, Node.js y SQL
         </p>
         <p className="hero-desc">
           Técnico en Desarrollo Web (Instituto Cervantes) con experiencia en soporte de sistemas y
@@ -21,7 +20,7 @@ export default function Hero() {
           <a href="#proyectos" className="btn btn-primary">
             Ver proyectos
           </a>
-          <a href="/cv-cristian-alba.pdf" className="btn btn-outline" download>
+          <a href="./cv-cristian-alba.pdf" className="btn btn-outline" download>
             Descargar CV
           </a>
         </div>

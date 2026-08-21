@@ -7,8 +7,8 @@ export default function About() {
         </h2>
         <div className="about-grid">
           <p className="about-text">
-            Estoy en la etapa final de la Tecnicatura en Desarrollo Web en el Instituto Cervantes.
-            Trabajé en el área de Sistemas del Sanatorio Allende, donde combiné soporte técnico a
+            Soy Técnico en Desarrollo Web (Instituto Cervantes). Trabajé en el área de Sistemas
+            del Sanatorio Allende, donde combiné soporte técnico a
             usuarios internos, documentación y manejo responsable de información sensible en un
             entorno corporativo de salud — algo que me dejó buena costumbre de precisión y criterio
             para trabajar con datos reales.
