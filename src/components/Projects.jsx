@@ -71,9 +71,7 @@ export default function Projects() {
   return (
     <section id="proyectos" className="section section-alt">
       <div className="container">
-        <h2 className="section-title">
-          <span>02.</span> Proyectos
-        </h2>
+        <h2 className="section-title">Proyectos</h2>
         <div className="projects-grid">
           {PROJECTS.map((project) => (
             <article className="project-card tilt-card" key={project.name}>

@@ -14,8 +14,8 @@ export default function Header() {
   return (
     <header className="site-header">
       <div className="container header-inner">
-        <a href="#inicio" className="logo">
-          CA<span>.</span>
+        <a href="#inicio" className="logo" aria-label="Inicio">
+          <span className="logo-mark">CA</span>
         </a>
         <nav className={`nav${open ? ' open' : ''}`} id="nav">
           {LINKS.map((link) => (

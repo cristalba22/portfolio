@@ -2,9 +2,7 @@ export default function Contact() {
   return (
     <section id="contacto" className="section section-alt contact-section">
       <div className="container">
-        <h2 className="section-title">
-          <span>04.</span> Contacto
-        </h2>
+        <h2 className="section-title">Contacto</h2>
         <p className="contact-text">
           Estoy buscando mi primera oportunidad formal como Desarrollador Web Jr, Backend Jr, Full
           Stack Jr o DBA Jr. Si tenés una propuesta o simplemente querés charlar, escribime.

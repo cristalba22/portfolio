@@ -2,9 +2,7 @@ export default function About() {
   return (
     <section id="sobre-mi" className="section">
       <div className="container">
-        <h2 className="section-title">
-          <span>01.</span> Sobre mí
-        </h2>
+        <h2 className="section-title">Sobre mí</h2>
         <div className="about-grid">
           <p className="about-text">
             Soy Técnico en Desarrollo Web (Instituto Cervantes). Trabajé en el área de Sistemas

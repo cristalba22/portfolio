@@ -38,9 +38,7 @@ export default function Stack() {
   return (
     <section id="stack" className="section">
       <div className="container">
-        <h2 className="section-title">
-          <span>03.</span> Stack &amp; Recursos
-        </h2>
+        <h2 className="section-title">Stack &amp; Recursos</h2>
         <p className="stack-intro">
           Herramientas y tecnologías que uso para construir interfaces y aplicaciones completas.
         </p>
