@@ -9,7 +9,7 @@ export default function Hero() {
         <p className="eyebrow">Hola, soy</p>
         <h1 className="gradient-text">Cristian Eduardo Alba</h1>
         <p className="hero-role">
-          Desarrollador Full Stack Jr <span className="dot">|</span> React, Node.js y SQL
+          Desarrollador Full Stack  <span className="dot">|</span> React, Node.js y SQL
         </p>
         <p className="hero-desc">
           Técnico en Desarrollo Web (Instituto Cervantes) con experiencia en soporte de sistemas y
